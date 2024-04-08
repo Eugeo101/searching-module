@@ -1,6 +1,6 @@
 print("Ahmed")
 print("Ahmed Ayman")
-print("Fakhr")
+print("Fakhr 2")
 
 def search_for_a_number(numbers, num=0):
     counter = 0
