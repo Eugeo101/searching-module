@@ -1,5 +1,5 @@
 print("Ahmed")
-print("")
+print("Said")
 print("Fakhr")
 
 def search_for_a_number(numbers, num=0):
@@ -9,4 +9,4 @@ def search_for_a_number(numbers, num=0):
         if numbers[i] == num:
             counter += 1
             indices.append(i)
-    return indices, counter
+    return indices
